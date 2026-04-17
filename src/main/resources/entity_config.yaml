@@ -1,0 +1,96 @@
+entity.properties:
+  WOLF:
+    weight: 50
+    maxCountOnCell: 30
+    speed: 3
+    foodRequired: 8
+
+  SNAKE:
+    weight: 15
+    maxCountOnCell: 30
+    speed: 1
+    foodRequired: 3
+
+  FOX:
+    weight: 8
+    maxCountOnCell: 30
+    speed: 2
+    foodRequired: 2
+
+  BEAR:
+    weight: 500
+    maxCountOnCell: 5
+    speed: 2
+    foodRequired: 80
+
+  EAGLE:
+    weight: 6
+    maxCountOnCell: 20
+    speed: 3
+    foodRequired: 1
+
+  HORSE:
+    weight: 400
+    maxCountOnCell: 20
+    speed: 4
+    foodRequired: 60
+
+  DEER:
+    weight: 300
+    maxCountOnCell: 20
+    speed: 4
+    foodRequired: 50
+
+  RABBIT:
+    weight: 2
+    maxCountOnCell: 150
+    speed: 2
+    foodRequired: 0.45
+
+  MOUSE:
+    weight: 0.05
+    maxCountOnCell: 500
+    speed: 1
+    foodRequired: 0.01
+
+  GOAT:
+    weight: 60
+    maxCountOnCell: 140
+    speed: 3
+    foodRequired: 10
+
+  SHEEP:
+    weight: 70
+    maxCountOnCell: 140
+    speed: 3
+    foodRequired: 15
+
+  PIG:
+    weight: 400
+    maxCountOnCell: 50
+    speed: 2
+    foodRequired: 50
+
+  BUFFALO:
+    weight: 700
+    maxCountOnCell: 10
+    speed: 3
+    foodRequired: 100
+
+  DUCK:
+    weight: 1
+    maxCountOnCell: 200
+    speed: 4
+    foodRequired: 0.15
+
+  CATERPILLAR:
+    weight: 0.01
+    maxCountOnCell: 1000
+    speed: 0
+    foodRequired: 0
+
+  PLANT:
+    weight: 1
+    maxCountOnCell: 200
+    speed: 0
+    foodRequired: 0

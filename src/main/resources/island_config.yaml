@@ -1,0 +1,5 @@
+island.width: 4
+island.height: 4
+island.count_animals_on_start: 30
+island.count_ticks: 100
+
